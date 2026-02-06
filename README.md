@@ -1,5 +1,10 @@
 # Packet Checksum Validator
 
+> **Computer Networks Lab — Experiment 6: Checksum Calculation**
+>
+> **Submitted by:** Adithya Kumar T  
+> **Register Number:** 24BCE1588
+
 ## Overview
 This project is a network traffic analysis tool developed in Python using the **Scapy** library. It reads packet capture files (`.pcap` or `.pcapng`), parses the headers, and automatically validates the checksums for various network protocols. 
 
